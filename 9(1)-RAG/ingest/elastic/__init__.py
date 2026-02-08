@@ -1,0 +1,1 @@
+# Elasticsearch ingest package
